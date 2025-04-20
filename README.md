@@ -31,4 +31,3 @@
 `npm run build`
 
 ### Live Demo
-[CV Builder Demo](https://lively-begonia-680727.netlify.app/)
